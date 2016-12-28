@@ -1,6 +1,6 @@
 """
     Data Science and Machine Learning with Python
-    Section 02 - Lecture 16
+    Section 02 - Lesson 16
     Activity: Conditional Probability Activity & Exercise
     ---------------------------------------------------------------
     Modify the code above such that the purchase probability does
@@ -11,6 +11,11 @@
     different than the a-priori
     probability of purchase
     regardless of age.
+    ---------------------------------------------------------------
+    This prints the probabilities from the original model - where
+    the probability depends on the buyer's age - and the
+    probabilities of a fixed purchase probability.
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 from numpy import random
 

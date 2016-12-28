@@ -1,18 +1,21 @@
 """
     Data Science and Machine Learning with Python
-    Section 02 - Lecture 15
+    Section 02 - Lesson 15
     Activity: Covariance and Correlation
     ---------------------------------------------------------------
     Numpy also has a numpy.cov function that can compute Covariance
     for you. Try using it for the pageSpeeds and purchaseAmounts
     data above. Interpret its results, and compare it to the
     results from our own covariance function above.
+    ---------------------------------------------------------------
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 import numpy as np
 import matplotlib.pyplot as plt
 
 # Initialize plots
 f, a = plt.subplots(3)
+plt.subplots_adjust(hspace=1)
 
 # Random generated
 # It generates the values

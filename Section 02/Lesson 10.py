@@ -1,6 +1,6 @@
 """
     Data Science and Machine Learning with Python
-    Section 02 - Lecture 10
+    Section 02 - Lesson 10
     Activity: Standard Deviation and Variance
     ---------------------------------------------------------------
     Experiment with different parameters on the normal function,
@@ -8,6 +8,8 @@
     distribution. How does that new shape
     relate to the standard deviation
     and variance?
+    ---------------------------------------------------------------
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 import numpy.random as rand
 import matplotlib.pyplot as plt

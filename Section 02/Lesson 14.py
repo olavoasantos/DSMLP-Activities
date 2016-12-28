@@ -1,10 +1,12 @@
 """
     Data Science and Machine Learning with Python
-    Section 02 - Lecture 14
+    Section 02 - Lesson 14
     Activity: MatPlotLib Basics
     ---------------------------------------------------------------
     Try creating a scatter plot representing random data on age
     vs. time spent watching TV. Label the axes.
+    ---------------------------------------------------------------
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 import numpy as np
 import matplotlib.pyplot as plt

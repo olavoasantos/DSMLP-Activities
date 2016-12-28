@@ -1,11 +1,13 @@
 """
     Data Science and Machine Learning with Python
-    Section 02 - Lecture 09
+    Section 02 - Lesson 09
     Activity: Mean, Median, Mode, and introducing NumPy
     ---------------------------------------------------------------
     Find the mean and median of this data. In the code block
     below, write your code, and see if your
     result makes sense.
+    ---------------------------------------------------------------
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 import numpy as np
 import matplotlib.pyplot as plt

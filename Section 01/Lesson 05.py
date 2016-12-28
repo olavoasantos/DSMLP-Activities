@@ -1,11 +1,13 @@
 """
     Data Science and Machine Learning with Python
-    Section 01 - Lecture 05
+    Section 01 - Lesson 05
     Activity: Python 101
     ---------------------------------------------------------------
     Write some code that creates a list of integers, loops through
     each element of the list, and only prints
     out even numbers!
+    ---------------------------------------------------------------
+    Olavo Amorim Santos (olavo.a.santos@gmail.com)
 """
 import numpy.random as rand
 
